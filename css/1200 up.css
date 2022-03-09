@@ -1,0 +1,16 @@
+@media(min-width:1200px)and(max-width:1399.98px) {
+    .table-1 h4 {
+        word-wrap: break-word;
+        font-size: 15px;
+    }
+    .table-1 h4 p {
+        font-size: 13px;
+        word-wrap: normal;
+    }
+    #notice .notice-body-left-text {
+        padding: 0px 3px;
+    }
+    #nav-tabs .button {
+        width: 177px;
+    }
+}

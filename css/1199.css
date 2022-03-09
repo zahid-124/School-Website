@@ -1,0 +1,121 @@
+    @media(min-width:991px) and (max-width:1199.98px) {
+        .banner-top h3 {
+            font-size: 15px;
+        }
+        .banner-top i {
+            font-size: 20px;
+        }
+        .main {
+            padding: 11px;
+        }
+        .banner-item .banner-top {
+            padding: 7px;
+        }
+        .chairman-img {
+            width: 77px;
+        }
+        .banner-text h3 {
+            padding: 0 5px;
+        }
+        .feuters2-left-main ul h4 {
+            font-size: 16px;
+        }
+        .feuters2-left-main ul li a {
+            font-size: 14px;
+        }
+        .fetures-right-item-head {
+            font-size: 16px;
+        }
+        .link a {
+            font-size: 14px;
+        }
+        .bkash-all-link .nn {
+            font-size: 12px;
+        }
+        .feuters2-left-main ul h4 {
+            font-size: 14px;
+        }
+        .left-last-link a {
+            padding-right: 0px;
+            font-size: 16px;
+        }
+        .left-last-head h3 {
+            padding: 15px;
+            font-size: 17px;
+        }
+        .visitors-head {
+            font-size: 16px;
+        }
+        .td1 {
+            width: 12%;
+            padding-right: 5px;
+        }
+        .table-1 {
+            padding: 10px;
+        }
+        #fetures2 .border {
+            padding: 8px !important;
+        }
+        .table-1 h4 {
+            line-height: 20px;
+            font-size: 14px;
+            word-wrap: break-word;
+        }
+        .table-1 .lr a {
+            font-size: 13px;
+        }
+        .table-1 h4 p {
+            color: rgb(0, 0, 0);
+            font-size: 10px;
+            font-weight: 300 !important;
+            word-wrap: normal;
+        }
+        .page-head h2 {
+            font-size: 22px;
+        }
+        #notice .extra-text h3 {
+            font-size: 19px;
+        }
+        .notice-body-left-text {
+            padding: 0 !important;
+        }
+        #notice .notice-body-left-text {
+            padding-top: 20px !important;
+            font-size: 14px;
+            line-height: 22px;
+        }
+        #notice .notice-body-middle-text a {
+            font-size: 14px;
+        }
+        #notice .notice-body-right-text {
+            padding-top: 20px;
+        }
+        #notice .notice-body-right-text span {
+            font-size: 14px;
+        }
+        #notice .notice-body-right-text i {
+            font-size: 14px;
+        }
+        .shamima-text p {
+            font-size: 13px;
+        }
+        #nav-tabs .button {
+            padding: 10px 5px;
+            width: 148px;
+        }
+        #nav-tabs .button .btn-text {
+            font-size: 16px;
+        }
+        .footer-item-head {
+            font-size: 16px;
+        }
+        .footer-item-body p {
+            font-size: 14px;
+        }
+        .footer-item-body span {
+            font-size: 14px;
+        }
+        .features-middle {
+            margin: 0px 0px 0px 15px !important;
+        }
+    }
