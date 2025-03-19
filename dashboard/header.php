@@ -63,7 +63,7 @@ $classId=$class['id'];
             <div class="container">
                 <a class="navbar-brand" href="/sjr-academy">
                     <!-- <img src="images/logo.png" class="img-fluid" alt=""> -->
-                    <div class="bg-info text-bold fs-1 px-5 py-4 rounded text-white">SJR ACADEMY</div>
+                    <div class="bg-info text-bold fs-1 px-5 py-4 rounded text-white">TRISHAL ACADEMY</div>
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>

@@ -1,3 +1,9 @@
+<?php
+session_start();
+if(!isset($_SESSION['login'])){
+  header("location:/sjr-academy/admin/login/login.php");
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -108,7 +114,7 @@
             </a>
             <div class="dropdown-menu dropdown-menu-header wd-200">
               <ul class="list-unstyled user-profile-nav">
-                <li><a href=""><i class="icon ion-power"></i> Sign Out</a></li>
+                <li><a href="/sjr-academy/admin/login/logout.php"><i class="icon ion-power"></i> Sign Out</a></li>
               </ul>
             </div><!-- dropdown-menu -->
           </div><!-- dropdown -->

@@ -85,8 +85,8 @@ include 'dashboard/header.php';
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="fetures-item text-center">
-                        <h3> বিভিন্ন শ্রেণির শিক্ষার্থিদের ভ্যাক্সিন গ্রহণ সংক্রান্ত তথ্য ফরম</h3>
+                    <div class="fetures-item text-center" >
+                        <h3 style="color: blue;"> বিভিন্ন শ্রেণির শিক্ষার্থিদের ভ্যাক্সিন গ্রহণ সংক্রান্ত তথ্য ফরম</h3>
                         <div class="fetures-btn">
                             <a href="#">শিক্ষার্থীদের তথ্য ফরম</a>
                         </div>
@@ -145,7 +145,7 @@ include 'dashboard/header.php';
                                 </a>
                             </li>
                             <li>
-                                <a href="#">
+                                <a href="images/routine.jpg" target="_blank">
                                     <img src="images/n.png" width="12" alt=""> ROUTINES
                                 </a>
                             </li>
@@ -158,12 +158,12 @@ include 'dashboard/header.php';
                         </div>
                         <div class="left-last-body">
                             <div class="left-last-img text-center">
-                                <a href="#">
+                                <a href="images/prospectus.pdf" target="_blank">
                                     <img src="images/prospectusicon.png" class="img-fluid" width="70%" alt="">
                                 </a>
                             </div>
                             <div class="left-last-link" style="white-space: nowrap;">
-                                <a href="#">
+                                <a href="images/prospectus.pdf" target="_blank">
                                     <img src="images/rightarrow.gif" class="img-fluid" width="20" alt="">
                                     <span> শিক্ষাবর্ষ: ২০২০-২১</span>
                                 </a>

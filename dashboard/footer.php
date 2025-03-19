@@ -28,33 +28,7 @@
                             </div>
                         </div>
                     </div>
-                    <!-- <div class="col-lg-3">
-                        <div class="footer-tem">
-                            <div class="footer-item-head">
-                                শিক্ষার্থী লগইন লিংক
-                            </div>
-                            <div class="footer-item-body">
-                                <p>
-                                    <a href="#">MBA/MSC in CSE Student Login</a>
-                                </p>
-                                <p>
-                                    <a href="#">All Masters Student Login</a>
-                                </p>
-                                <p>
-                                    <a href="#">All Honors Student Login</a>
-                                </p>
-                                <p>
-                                    <a href="#">XII Class Student Login 2019-20</a>
-                                </p>
-                                <p>
-                                    <a href="#">XI Class Student Login 2020-21</a>
-                                </p>
-                                <p>
-                                    <a href="#">Dept. of Marketing</a>
-                                </p>
-                            </div>
-                        </div>
-                    </div> -->
+                    
                     <div class="col-lg-4">
                         <div class="footer-tem">
                             <div class="footer-item-head">
@@ -102,12 +76,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <h3>© 2021 SJR ACADEMY</h3>
+                    <h3>© 2022 SJR ACADEMY</h3>
 
                 </div>
                 <div class="col-lg-6">
                     <div class="facebook text-end">
-                        <a href="#">FACEBOOK LINK</a>
+                        <a href="https://www.facebook.com/" target="_blank">FACEBOOK LINK</a>
                     </div>
                 </div>
             </div>
